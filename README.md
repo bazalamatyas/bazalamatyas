@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://github.com/bazalamatyas?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/tile-build.svg"><img alt="Build: my repositories, in Python, TypeScript, FastAPI and React. APIs, workers, extensions and dashboards." src="cards/light/tile-build.svg" width="32.5%"></picture></a>
 <a href="#user-content-activity"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/tile-ship.svg"><img alt="Ship: contributions in the last 12 months, almost all in private repositories." src="cards/light/tile-ship.svg" width="32.5%"></picture></a>
-<a href="#user-content-projects"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/tile-web.svg"><img alt="Web: 20+ websites designed, built and deployed: fast, animated and responsive." src="cards/light/tile-web.svg" width="32.5%"></picture></a>
+<a href="#user-content-projects"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/tile-web.svg"><img alt="Web: 20+ websites designed and built: fast, animated and responsive." src="cards/light/tile-web.svg" width="32.5%"></picture></a>
 </p>
 
 ### Activity
@@ -15,7 +15,7 @@
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/project-apis.svg"><img alt="APIs and workers: Python, FastAPI and PostgreSQL. Production backends with auth, billing webhooks, admin APIs and background workers." src="cards/light/project-apis.svg" width="49%"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/project-webapps.svg"><img alt="Web apps: TypeScript, React and Supabase. Customer dashboards and admin panels, built and shipped end to end." src="cards/light/project-webapps.svg" width="49%"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/project-websites.svg"><img alt="Websites: Astro, React and Tailwind. Fast, animated marketing sites and landing pages, designed and shipped end to end; 20+ shipped." src="cards/light/project-websites.svg" width="49%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/project-websites.svg"><img alt="Websites: Astro, React and Tailwind. Fast, animated marketing sites and landing pages, designed and built end to end; 20+ built." src="cards/light/project-websites.svg" width="49%"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/project-languages.svg"><img alt="Languages: the share of code across all my repositories, led by Python and TypeScript." src="cards/light/project-languages.svg" width="49%"></picture>
 </p>
 
