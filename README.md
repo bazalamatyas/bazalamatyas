@@ -21,4 +21,4 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/heatmap.svg"><img alt="Contribution calendar for the last 53 weeks, one square per day, shaded by how much I committed." src="cards/light/heatmap.svg" width="100%"></picture>
 
-Reach me: <a href="mailto:11matybazala@gmail.com">11matybazala@gmail.com</a> · <a href="https://www.linkedin.com/in/matyasbazala">LinkedIn</a>
+Reach me: <a href="mailto:11matybazala@gmail.com">11matybazala@gmail.com</a> · <a href="https://www.linkedin.com/in/matyasbazala">LinkedIn</a> · <a href="https://www.lunostudio.cz">Luno Studio</a>
